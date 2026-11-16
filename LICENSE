@@ -1,0 +1,57 @@
+# 许可
+
+本仓库采用**双许可**：
+
+## 1. 文字内容 —— CC BY-NC-SA 4.0
+
+适用于：所有 `.md` 文件（课程正文、模板、README、本文件）。
+
+你可以自由地：
+- **共享** —— 以任何媒介或格式复制、发行本作品
+- **演绎** —— 修改、转换、基于本作品创作
+
+惟须遵守以下条款：
+- **署名** —— 必须给出适当署名，提供许可协议链接，并说明是否作出修改
+- **非商业性使用** —— 不得将本作品用于商业目的（内部培训、付费课程、咨询交付均属商业用途，需另行授权）
+- **相同方式共享** —— 若你修改或基于本作品创作，必须用同一许可协议分发你的贡献
+
+许可协议全文：https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-hans
+
+## 2. 代码 —— MIT
+
+适用于：`demos/` 目录下的所有 `.py` 文件。
+
+```
+MIT License
+
+Copyright (c) 2026 ai-pm-agent-course contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+## 一句话
+
+**读、学、改、在公司内部讲**：随便用。
+**拿去卖钱或做成付费课程**：请先联系作者。
+
+## 关于素材
+
+课程中的订单号、政策条款、公司名、金额、用户对话，**全部为虚构的教学素材**，
+与任何真实企业、真实政策无关。`demos/` 里的"模型回答"是写死的字符串，
+不是真实模型的输出。
